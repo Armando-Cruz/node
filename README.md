@@ -1,3 +1,6 @@
-# Proyecto Node  
-Este repositorio es un respaldo de mis anotaciones, programas  
-y proyectos de Node
+# App de multiplicar  
+
+Esta app permite
+
+* Generar tablas y guardarlas en un archivo de texto
+* Listar en pantalla las tablas
